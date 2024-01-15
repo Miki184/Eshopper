@@ -1,0 +1,52 @@
+{
+    "categories": [
+        {
+            "name": "Tehnika i elektronika",
+            "subcategory": [
+                "Pametni telefoni",
+                "Laptop računari",
+                "Računarska oprema",
+                "Televizori"
+            ]
+        },
+        {
+            "name": "Knjige i filmovi",
+            "subcategory": [
+                "Knjige",
+                "Filmovi"
+            ]
+        },
+        {
+            "name": "Kozmetika i lična njega",
+            "subcategory": [
+                "Šminka i pribor",
+                "Proizvodi za kožu",
+                "Parfemi i mirisi"
+            ]
+        },
+        {
+            "name": "Odjeća i obuća",
+            "subcategory": [
+                "Muška odjeća",
+                "Ženska odjeća",
+                "Dječija odjeća"
+            ]
+        },
+        {
+            "name": "Kućni aparati",
+            "subcategory": [
+                "Kuhinjski aparati",
+                "Bijela tehnika",
+                "Usisivači i čistači"
+            ]
+        },
+        {
+            "name": "Sport i rekreacija",
+            "subcategory": [
+                "Sportska odjeća",
+                "Sportska oprema",
+                "Fitnes oprema"
+            ]
+        }
+    ]
+}

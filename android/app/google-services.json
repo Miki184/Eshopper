@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791602040522",
+    "project_id": "eshop-286f4",
+    "storage_bucket": "eshop-286f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791602040522:android:40e12b36a300bd5fa82e33",
+        "android_client_info": {
+          "package_name": "com.example.eshop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791602040522-cm8j1itchqiqr2b9u99uuqamnsnu2vpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eshop_app",
+            "certificate_hash": "b60f5c50537a4a3629d729d5ab537784630e5292"
+          }
+        },
+        {
+          "client_id": "791602040522-6iokvsoni5qo91bt2m2imoeur2s3fud2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2QCDIEGVUYbfRinBzTwciv4Mj5B5H3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791602040522-6iokvsoni5qo91bt2m2imoeur2s3fud2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
