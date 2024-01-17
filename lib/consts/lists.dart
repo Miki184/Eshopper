@@ -21,13 +21,6 @@ const categoryImages = [
   imgSport,
 ];
 
-const itemDetailButtonsList = [
-  video,
-  reviews,
-  privacyPolicy,
-  returnpolicy,
-  supportpolicy,
-];
 
 const profileButtonsList = [orders, wishlist];
 

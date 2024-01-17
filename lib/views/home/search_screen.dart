@@ -103,7 +103,6 @@ class SearchScreen extends StatelessWidget {
                                       color: golden,
                                       size: 15,
                                     ),
-                                    // SizedBox(width: 5),
                                     1.widthBox,
                                     "${filtered[index]['p_rating']}".text.size(13).color(darkFontGrey).make(),
                                   ],

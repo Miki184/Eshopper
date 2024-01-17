@@ -70,7 +70,7 @@ class _CategotyDeatilsState extends State<CategotyDeatils> {
               children: [
                 Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 10),
-                  child: "Izaberite podkategoriju: ".text.size(17).color(darkFontGrey).make(),
+                  child: "Izaberite potkategoriju: ".text.size(17).color(darkFontGrey).make(),
                 ),
                 SingleChildScrollView(
                   physics: const BouncingScrollPhysics(),
@@ -131,9 +131,6 @@ class _CategotyDeatilsState extends State<CategotyDeatils> {
                                       fit: BoxFit.cover,
                                     ).box.topRounded(value: 7.5).clip(Clip.antiAlias).make(),
                                     10.heightBox,
-                                    // Container(padding: EdgeInsets.symmetric(horizontal: 10),child: "${data[index]['p_name']}".text.bold.size(14).color(darkFontGrey).make()),
-                                    // 5.heightBox,
-                                    // Container(padding: EdgeInsets.symmetric(horizontal: 10), child: "${data[index]['p_price']}".numCurrency.text.color(redColor).fontFamily(bold).size(16).make())
                                     Container(
                                       padding: EdgeInsets.symmetric(horizontal: 6),
                                       child: Row(

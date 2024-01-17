@@ -307,7 +307,6 @@ class HomeScreen extends StatelessWidget {
                                       ),
                                     ),
                                     5.heightBox,
-                                    // Container(padding: EdgeInsets.symmetric(horizontal: 10), child: "${allproductsData[index]['p_price']}".numCurrency.text.color(redColor).fontFamily(bold).size(16).make()),
                                   ],
                                 ).box.white.margin(const EdgeInsets.symmetric(horizontal: 4)).shadowSm.roundedSM.make()
                                     .onTap(() {

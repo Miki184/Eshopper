@@ -80,7 +80,6 @@ flutter:
   assets:
     - assets/
     - assets/allimages/
-#    - assets/icons/
     - lib/services/category_model.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
